@@ -23,4 +23,13 @@ public class DucksTest {
         assert(actualResult).contentEquals(EXPECTED);
     }
 
+    @Test
+    public void should_return_decoyDuckSpeakString(){
+        Duck decoy = new DecoyDuck();
+        String actualResult = decoy.speak();
+        String EXPECTED = "Decoys don't speak, stupid";
+
+        assert(actualResult).contentEquals(EXPECTED);
+    }
+
 }
