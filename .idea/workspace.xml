@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56feae05-0014-4ea3-a31d-56a1ee0a04e3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/strategyPattern/DecoyDuck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/strategyPattern/DucksTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/com/strategyPattern/DuckTest.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/strategyPattern/StrategyPatternApplicationTests.java" afterPath="$PROJECT_DIR$/src/test/java/com/strategyPattern/StrategyPatternApplicationTests.java" />
-    </list>
+    <list default="true" id="56feae05-0014-4ea3-a31d-56a1ee0a04e3" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
